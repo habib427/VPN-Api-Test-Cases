@@ -9,7 +9,7 @@ BASE_URL = os.getenv("BASE_URL")
 
 test_user = {
     "name":"inam",
-    "email": "inam23@galixo.ai",
+    "email": "inam23@.ai",
     "password": "TestPass123!",
     "otp": "123456",
     "new_password": "NewTestPass456!"
