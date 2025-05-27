@@ -8,8 +8,8 @@ load_dotenv()
 BASE_URL = os.getenv("BASE_URL")
 
 test_user = {
-    "name":"inam",
-    "email": "inam23@.ai",
+    "name":"test",
+    "email": "test23@.ai",
     "password": "TestPass123!",
     "otp": "123456",
     "new_password": "NewTestPass456!"
